@@ -4,3 +4,5 @@
 #### This is h4 heading
 ##### This is h5 heading
 ###### This is h6 heading
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
